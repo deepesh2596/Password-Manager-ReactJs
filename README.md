@@ -71,7 +71,7 @@ This Password Manager App allows users to securely store and manage their passwo
 
 8. Open your browser and navigate to:
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ---
